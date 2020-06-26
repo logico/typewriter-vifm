@@ -1,6 +1,7 @@
 " typewriter
-" Author: Jochen Schweizer
-" https://github.com/durcheinandr/vifm-colors
+" Author: Alejandro Amaral (https://estoico.com.ar).
+" Based on Jochen Schweizer's theme snowwhite.
+" https://github.com/logico/typewriter-vifm
 
 highlight clear
 
